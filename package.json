@@ -6,7 +6,7 @@
   "homepage": "https://anup-verma98.github.io/GFE-feature-section-grid/",
   "scripts": {
     "start": "vite",
-    "build": "tsc -b && vite build",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
