@@ -1,5 +1,5 @@
-import { useState } from "react";
 import "./App.css";
+import { Starter } from "./screens/Starter";
 
 function App() {
   /**
@@ -17,7 +17,7 @@ function App() {
     - No Limitations: Use as many as you want, from Dribbble presentations to PowerPoint presentations. 
    */
 
-  return <>Hello World!!</>;
+  return <Starter />;
 }
 
 export default App;
