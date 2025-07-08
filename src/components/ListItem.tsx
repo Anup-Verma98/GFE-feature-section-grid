@@ -1,4 +1,3 @@
-import React from "react";
 import type { GridItemType } from "../constants";
 
 export const ListItem: React.FC<Omit<GridItemType, "id">> = (props) => {
